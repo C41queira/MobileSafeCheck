@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017933081832",
+    "firebase_url": "https://safe-check-7d0ce-default-rtdb.firebaseio.com",
+    "project_id": "safe-check-7d0ce",
+    "storage_bucket": "safe-check-7d0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017933081832:android:918769bc5ed1c4b0616d5d",
+        "android_client_info": {
+          "package_name": "com.batatinhas.safechecktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWdpn4bD75aRLQrvz1aXByPMF9OetY5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
